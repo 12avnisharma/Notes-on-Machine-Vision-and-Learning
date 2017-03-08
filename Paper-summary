@@ -1,0 +1,10 @@
+Event-Based 3D Motion Flow Estimation Using 4D Spatio Temporal Subspaces Properties - R. Benosman (http://journal.frontiersin.org/article/10.3389/fnins.2016.00596/full)
+
+Objective: A new solution to estimate scene flow using properties of 4D(3D space + time) spaces without the need to use luminance.
+
+Scene flow are vector fields that map points of a 3d structure to their instantaneous velocity vectors. Because of this close 
+relationship, estimating the scene flow usually implies to estimating the structure and vice-versa. 
+Dense scene flow estimation - state-of-the-art techniques estimate depth maps and compute optical flows of each camera separately. 
+In a second stage they combine both to estimate the 3D flow.
+
+
