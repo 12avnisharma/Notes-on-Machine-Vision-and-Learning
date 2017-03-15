@@ -4,7 +4,9 @@
 ### Vision Problems
 -> [Feature_Extraction](https://github.com/analogicalnexus/Notes-on-Machine-Vision-and-Learning/tree/master/Feature_Extraction)
 [Linear Binary Pattern](http://liris.cnrs.fr/Documents/Liris-5004.pdf)
+https://www.cs.umd.edu/class/spring2016/cmsc764/
 -> [Recognition](https://github.com/analogicalnexus/Notes-on-Machine-Vision-and-Learning/tree/master/Recognition)
+
 -> [Segmentation](https://github.com/analogicalnexus/Notes-on-Machine-Vision-and-Learning/tree/master/Segmentation)
 -> [Shape from Shading](https://github.com/analogicalnexus/Notes-on-Machine-Vision-and-Learning/tree/master/Shape_from_Shading)
 -> [Stereo](https://github.com/analogicalnexus/Notes-on-Machine-Vision-and-Learning/tree/master/Stereo)
