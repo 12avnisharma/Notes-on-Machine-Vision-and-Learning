@@ -33,5 +33,5 @@ Support Vector Machine(SVM)
 Q-Learning, Deep Q Network
 #### Neural Network
 Convolutional Neural Network (CNN), Recurrent Neural Network (RNN)
-#### Structured Learning 
+#### [Structured Learning](https://pystruct.github.io/intro.html#intro) 
 Conditional Random Fields(CRF)
