@@ -12,7 +12,7 @@
 
  [Stereo](https://github.com/analogicalnexus/Notes-on-Machine-Vision-and-Learning/tree/master/Stereo)
 
- [Structur[Linear Binary Pattern](http://liris.cnrs.fr/Documents/Liris-5004.pdf)e from Motion](https://github.com/analogicalnexus/Notes-on-Machine-Vision-and-Learning/tree/master/Structure_from_Motion)
+ [Structure from Motion](https://github.com/analogicalnexus/Notes-on-Machine-Vision-and-Learning/tree/master/Structure_from_Motion)
 
  [Tracking](https://github.com/analogicalnexus/Notes-on-Machine-Vision-and-Learning/tree/master/Tracking)
 
