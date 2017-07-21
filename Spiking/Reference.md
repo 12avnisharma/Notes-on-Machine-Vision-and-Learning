@@ -34,4 +34,6 @@ arbitrarily well, but with temporally encoded inputs and outputs [11], [12]. Fur
 there are function that require fewer neurons in a pulsed neural net to approximate
 than would be needed in a second generation network [11].
 
+3. [Training Deep Spiking Neural Networks Using Backpropagation](http://journal.frontiersin.org/article/10.3389/fnins.2016.00508/full)
+
 
