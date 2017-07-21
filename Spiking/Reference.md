@@ -2,7 +2,8 @@
 information processing, learning and applications](http://www.ane.pl/pdf/7146.pdf)
 
 2. [Image Processing with Spiking Neuron
-Networks](https://lezoray.users.greyc.fr/Publis/Meftah_Turing2012.pdf)
+Networks](https://lezoray.users.greyc.fr/Publis/Meftah_Turing2012.pdf) &nbsp/&nbsp
+
 Wolfgang Maass delineates past and current artificial neural network research
 into three generations and makes the following observations.
 The first generation is based on the McCulloch-Pitts neuron (also known as a
