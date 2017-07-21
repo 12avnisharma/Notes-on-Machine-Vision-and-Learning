@@ -32,7 +32,7 @@ Support Vector Machine(SVM)
 #### Reinforcement Learning
 Q-Learning, Deep Q Network
 #### Neural Network
-Convolutional Neural Network (CNN), Recurrent Neural Network (RNN)
+Convolutional Neural Network (CNN), Recurrent Neural Network (RNN),
 [Spiking Neural Network(SNN)](https://github.com/analogicalnexus/Notes-on-Machine-Vision-and-Learning/blob/master/Spiking/Reference.md)
 #### [Structured Learning](https://pystruct.github.io/intro.html#intro) 
 Conditional Random Fields(CRF)
