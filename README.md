@@ -29,6 +29,7 @@ Quora post explaining VC dimentions in a lucid way. [Quora Link](https://www.quo
 #### Supervised Learning
 Support Vector Machine(SVM)
 #### Unsupervised Learning
+Mean shift
 #### Reinforcement Learning
 Q-Learning, Deep Q Network
 #### Neural Network
