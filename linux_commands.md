@@ -1,5 +1,6 @@
 Search for packages via terminal 
 
-```bash
+```
 sudo apt-cache search name
+
 ```
