@@ -2,19 +2,19 @@
 
 ## Machine Vision
 ### Vision Problems
- [Feature_Extraction](https://github.com/analogicalnexus/Notes-on-Machine-Vision-and-Learning/tree/master/Feature_Extraction)...
+ [Feature_Extraction](https://github.com/analogicalnexus/Notes-on-Machine-Vision-and-Learning/tree/master/classic_papers/Feature_Extraction)...
 
- [Recognition](https://github.com/analogicalnexus/Notes-on-Machine-Vision-and-Learning/tree/master/Recognition)
+ [Recognition](https://github.com/analogicalnexus/Notes-on-Machine-Vision-and-Learning/tree/master/classic_papers/Recognition)
 
- [Segmentation](https://github.com/analogicalnexus/Notes-on-Machine-Vision-and-Learning/tree/master/Segmentation)
+ [Segmentation](https://github.com/analogicalnexus/Notes-on-Machine-Vision-and-Learning/tree/master/classic_papers/Segmentation)
 
- [Shape from Shading](https://github.com/analogicalnexus/Notes-on-Machine-Vision-and-Learning/tree/master/Shape_from_Shading)
+ [Shape from Shading](https://github.com/analogicalnexus/Notes-on-Machine-Vision-and-Learning/tree/master/classic_papers/Shape_from_Shading)
 
- [Stereo](https://github.com/analogicalnexus/Notes-on-Machine-Vision-and-Learning/tree/master/Stereo)
+ [Stereo](https://github.com/analogicalnexus/Notes-on-Machine-Vision-and-Learning/tree/master/classic_papers/Stereo)
 
- [Structure from Motion](https://github.com/analogicalnexus/Notes-on-Machine-Vision-and-Learning/tree/master/Structure_from_Motion)
+ [Structure from Motion](https://github.com/analogicalnexus/Notes-on-Machine-Vision-and-Learning/tree/master/classic_papers/Structure_from_Motion)
 
- [Tracking](https://github.com/analogicalnexus/Notes-on-Machine-Vision-and-Learning/tree/master/Tracking)
+ [Tracking](https://github.com/analogicalnexus/Notes-on-Machine-Vision-and-Learning/tree/master/classic_papers/Tracking)
 
 
 ## Machine Learning
